@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  color: blue;
+  
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+.box {
+  background: #202020; /* 背景色 */
+  color: #0000E0;         /* 文字色 */
+  border: 2px solid blue; /* 枠線 */
+  padding: 8px;
+  border-radius: 6px;
+}
+button {
+  background-color: #0000C0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+#result {
+  width: 1200px;
+  word-break: break-all;
+  white-space: normal;
+  
+  font-family: "Consolas", "Courier New", monospace; 
+  font-size: 20px;
+}
+.air {
+  margin-left: 20px;
+}
